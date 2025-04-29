@@ -26,7 +26,8 @@ A simple 2D platformer game built using an Arduino Uno and a 20x4 character LCD 
 | Arduino Uno      | 1        |
 | 20x4 LCD Display | 1        |
 | Joystick Module  | 1        |
-| Breadboard & Jumper Wires | loads |
+| Breadboard       | 1        |
+| Jumper Wires     | loads    | 
 
 ---
 
